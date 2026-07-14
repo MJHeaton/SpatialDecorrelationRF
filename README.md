@@ -1,4 +1,4 @@
-# Navigating Illusions of Importance
+# Accounting for Spatial Dependence in Random Forests Improves Ecological Understanding and Enhances Prediction
 
 This repository contains code and data sufficient to reproduce the simulation experiments and the empirical river flow analysis presented in the manuscript
 "Interpreting Random Forests and Navigating Illusions of Importance in Spatial Data."
